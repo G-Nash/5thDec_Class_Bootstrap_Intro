@@ -23,7 +23,7 @@ body{
 }
 
 .subheading{
-    text-decoration: underline;
+    /* text-decoration: underline; */
 }
 
 .subheading::first-letter{
