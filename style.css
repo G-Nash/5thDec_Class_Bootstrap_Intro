@@ -29,6 +29,6 @@ body{
 } */
 
 .subheading::first-letter{
-    font-size: xx-large;
+    font-size: x-large;
     color: cyan;
 }
