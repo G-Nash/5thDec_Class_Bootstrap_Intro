@@ -24,9 +24,9 @@ body{
     /* text-decoration: underline; */
 }
 
-.subheading{
-    /* text-decoration: underline; */
-}
+/* .subheading{
+    text-decoration: underline;
+} */
 
 .subheading::first-letter{
     font-size: xx-large;
